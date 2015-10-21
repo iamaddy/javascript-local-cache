@@ -24,8 +24,10 @@ new Loader(url,
      
 /min/f=可以自定义。    
 
-![](https://github.com/iamaddy/javascript-local-cache/blob/master/img/example.png)     
-缓存js的意义与风险     
+### 效果图   
+![](https://github.com/iamaddy/javascript-local-cache/blob/master/img/example.png)    
+
+###缓存js的意义与风险     
 http://www.zhihu.com/question/28467444    
 
 http://www.cnblogs.com/shinnychen/p/3779782.html
