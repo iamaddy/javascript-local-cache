@@ -20,9 +20,10 @@ new Loader(url,
   ['/min/f=', ',']);
 ```
 上述请求的资源会是:`http://xxxx.com/js/pkg/module.0872bee5.lc.js`，当然会进行combo请求。请求链接如下：
-`http://xxx.com/min/f=/js/pkg/widget.efb0b33f.lc.js,/js/pkg/bbscommon.26089ca5.lc.js,/js/pkg/gift.26e86227.lc.js,/js/pkg/module.0872bee5.lc.js`
+`http://xxx.com/min/f=/js/pkg/widget.efb0b33f.lc.js,/js/pkg/bbscommon.26089ca5.lc.js,/js/pkg/gift.26e86227.lc.js,/js/pkg/module.0872bee5.lc.js`     
      
-`/min/f=`可以自定义。   
+/min/f=可以自定义。    
+
 ![](https://github.com/iamaddy/javascript-local-cache/blob/master/img/example.png)     
 缓存js的意义与风险     
 http://www.zhihu.com/question/28467444    
