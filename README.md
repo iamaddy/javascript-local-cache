@@ -23,3 +23,7 @@ new Loader(url,
 `http://xxx.com/min/f=/js/pkg/widget.efb0b33f.lc.js,/js/pkg/bbscommon.26089ca5.lc.js,/js/pkg/gift.26e86227.lc.js,/js/pkg/module.0872bee5.lc.js`
      
 `/min/f=`可以自定义。   
+
+缓存js的意义与风险
+http://www.zhihu.com/question/28467444
+http://www.cnblogs.com/shinnychen/p/3779782.html
